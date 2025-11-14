@@ -103,7 +103,7 @@ If logging in for the first time, you may be asked to change your password. Comp
 </b> 
 9.  Access Management Tools<br/>
  <b>When prompted, enter the required credentials for Nano Server.
- <img src="step 9.png" height="80%" width="80%" alt="Identifying Target Device "/>
+ <img src="step9.png" height="80%" width="80%" alt="Identifying Target Device "/>
 
 Minimize the VM window and launch a local or remote Windows PowerShell session.
 
