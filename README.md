@@ -37,7 +37,7 @@ PowerShell Scripting: Core language for all automation, configuration, and manag
 
 <p align="center">
 1.Open Hyper-V Manager: <br/>
-<img src="1.jpg" height="80%" width="80%" alt="Identifying Target Device "/>
+<img src="step1.png" height="80%" width="80%" alt="Identifying Target Device "/>
 <br />
 <br />
   <b>Locate and launch Hyper-V Manager from your Windows Server or Windows client system.
