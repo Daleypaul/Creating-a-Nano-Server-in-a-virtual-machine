@@ -44,6 +44,7 @@ PowerShell Scripting: Core language for all automation, configuration, and manag
 
 
 2. Start Creating a New Virtual Machine
+<img src="step2.png" height="80%" width="80%" alt="Identifying Target Device "/>
 <br />
 <br />Click New in the Hyper-V Manager sidebar.
 
@@ -52,18 +53,21 @@ Select Virtual Machine from the dropdown menu.
 </b> 
 3. Configure VM Basics:  <br/>
  <b>Rename the virtual machine  for easy identification.
+ <img src="step3.png" height="80%" width="80%" alt="Identifying Target Device "/>
 
 Click Next repeatedly until you reach the memory setup section.
 
 </b> 
 4. Assign Memory <br/>
  <b>Type 256 MB in the Startup Memory box (as per instructions).
+ <img src="step4.png" height="80%" width="80%" alt="Identifying Target Device "/>
 
 Click Next until you reach the Connect Virtual Hard Disk page.
 
 </b> 
 5. Connect Nano Server Virtual Hard Disk<br/>
  <b>Select Use an existing virtual hard disk.
+ <img src="step5.png" height="80%" width="80%" alt="Identifying Target Device "/>
 
 Click Browse and navigate to your local disk > appropriate folder (e.g., Windows Server 2016 > NanoServer).
 
@@ -73,13 +77,14 @@ Select the NanoServer VHD file.
 </b> 
 6. Finish VM Setup<br/>
  <b>SClick Next, then Finish to complete the virtual machine creation.
-
+<img src="step6.png" height="80%" width="80%" alt="Identifying Target Device "/>
 Wait for the configuration/download process to finish.
 
 
 </b> 
 7.  Start and Access Nano Server VM <br/>
  <b>Select the new "Nano" VM in Hyper-V Manager.
+ <img src="step7.png" height="80%" width="80%" alt="Identifying Target Device "/>
 
 Click Connect to open its virtual console.
 
@@ -89,6 +94,7 @@ Click Start and wait for the VM boot process to complete.
 </b> 
 8.  Initial Login and Password Setup<br/>
  <b>When prompted, enter the required credentials for Nano Server.
+ <img src="step8.png" height="80%" width="80%" alt="Identifying Target Device "/>
 
 If logging in for the first time, you may be asked to change your password. Complete this step.
 
@@ -97,6 +103,7 @@ If logging in for the first time, you may be asked to change your password. Comp
 </b> 
 9.  Access Management Tools<br/>
  <b>When prompted, enter the required credentials for Nano Server.
+ <img src="step9.png" height="80%" width="80%" alt="Identifying Target Device "/>
 
 Minimize the VM window and launch a local or remote Windows PowerShell session.
 
