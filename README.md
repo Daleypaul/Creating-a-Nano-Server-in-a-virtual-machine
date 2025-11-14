@@ -1,5 +1,5 @@
-# Creating the nano server In a virtual machine
-How to ICreating the nano server In a virtual machine
+# Creating a Nano Server in a virtual machine
+How to create a Nano Server in a virtual machine
 
 
 
